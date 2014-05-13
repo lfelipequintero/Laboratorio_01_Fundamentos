@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<Familia>
+    <padre>Jose Perez</padre>
+    <Info edad="50" unidad="años" />
+    <ocupacion>Ingeniero de Sistemas</ocupacion>
+    <Madre>Maria Sanchez</Madre>
+    <Info edad="55" unidad="años" />
+    <Ocupacion>Ama de casa</Ocupacion>
+    <Hijo>
+        <Nombre>Andres Felipe</Nombre>
+        <Info edad="15" unidad="años" />
+        <Ocupacion>Estudiante</Ocupacion>
+        <Nombre>Andrea Maria</Nombre>
+        <Info edad="24" unidad="años" />
+        <Ocupacion>Medica</Ocupacion>
+    </Hijo>
+</Familia>
+

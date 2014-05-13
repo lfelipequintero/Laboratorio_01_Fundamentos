@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="ISO8859-1"?>
+<!--El parámetro encoding es necesario para poder incluir acentos
+(tildes) -->
+<!--y otras opciones de puntuación, quítalo y verás los errores-->
+<?xml-stylesheet type="text/xsl" href="catalogo.xsl"?>
+<VEHICULOS>
+    <CARRO>
+        <TITULO>Sportback SE MT</TITULO>
+        <PRECIO>$38.500.000</PRECIO>
+        <ESPECIFICACIONES>
+            <AT1>47</AT1>
+            <AT2>4 Puertas</AT2>
+            <AT3>Gasolina</AT3>
+            <AT4>1,642</AT4>
+            <AT5>DOHC I-4 de 1.6 litros</AT5>
+            <AT6>120 / 6.350</AT6>
+            <AT7>112 lb/ft / 5000</AT7>
+        </ESPECIFICACIONES>
+        <IMGCARRO>fiesta.jpeg</IMGCARRO>
+    </CARRO>
+    <CARRO>
+        <TITULO>Mustang GT Premium 2013</TITULO>
+        <PRECIO>$109.550.000 </PRECIO>
+        <ESPECIFICACIONES>
+            <AT1>60.5</AT1>
+            <AT2>2 Puertas</AT2>
+            <AT3>Gasolina</AT3>
+            <AT4>2,087</AT4>
+            <AT5>V8 de 5.0L</AT5>
+            <AT6>420 / 6.500</AT6>
+            <AT7>390 lb/ft / 4.250</AT7>
+        </ESPECIFICACIONES>
+        <IMGCARRO>mustan.jpeg</IMGCARRO>
+    </CARRO>
+    <CARRO>
+        <TITULO>SE PowerShift</TITULO>
+        <PRECIO>$49.500.000 </PRECIO>
+        <ESPECIFICACIONES>
+            <AT1>55</AT1>
+            <AT2>5 Puertas</AT2>
+            <AT3>Gasolina </AT3>
+            <AT4>1,810</AT4>
+            <AT5>2.0L Ti-VCT I-4</AT5>
+            <AT6>160 / 6.500</AT6>
+            <AT7>146 lb-ft/rpm / 4450</AT7>
+        </ESPECIFICACIONES>
+        <IMGCARRO>power.jpeg</IMGCARRO>
+    </CARRO>
+    <CARRO>
+        <TITULO>Titanium</TITULO>
+        <PRECIO>$74.900.000 </PRECIO>
+        <ESPECIFICACIONES>
+            <AT1>62.5</AT1>
+            <AT2>5 Puertas</AT2>
+            <AT3>Gasolina</AT3>
+            <AT4>2,059</AT4>
+            <AT5>2.0L EcoBoost l-4 DOHC 16V</AT5>
+            <AT6>240 / 5.500</AT6>
+            <AT7>270 lb / ft / 3.000</AT7>
+        </ESPECIFICACIONES>
+        <IMGCARRO>titanium.jpeg</IMGCARRO>
+    </CARRO>
+</VEHICULOS>

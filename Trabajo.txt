@@ -1,0 +1,11 @@
+a. Realice un documento con formato XML, que permita mostrar los datos de un catalogo de un concesionario de carros. Debe mostrar Imágenes, datos técnicos, modelo y valor de los autos. 
+
+realizado
+
+
+b. Que aplicaciones considera usted que puede tener el uso de XML en los sistemas de información? 
+
+c. En Netbeans cree un archivo XML llamado xmlLibros donde cada libro tiene la información de su titulo, autor, isbn y año. Luego cree un DTD y un archivo XSL llamado Presentación. Pruebe crear la siguiente tabla desde el XSL como se muestra a continuación. Describa todos los pasos empleados.
+
+d. Una de las tecnologías más empleadas para la creación y manipulación de documentos XML con Java es el API JDOM (Java Document Object Model). Aunque existen soluciones más genéricas como DOM y SAX (Serial Access XML) que no dependen de ningún lenguaje en especial, es posible que JDOM se integre con parsers como Xerces, XML4j , Crimson , Oracle´s Parsers entre otros. La librería que puede integrarse con Netbeans se encuentra en la pagina http://www.jdom.org. Se pide que desarrolle una aplicación con JAVA que permita crear un archivo XML con DOM. Así mismo deberá explicar claramente el funcionamiento del programa y los métodos empleados. 
+El programa deberá solicitar el nombre del elemento raíz, el numero de atributos dentro del archivo, el nombre de cada atributo, el contenido de cada atributo y el nombre del archivo XML como se muestra a continuación: 
